@@ -25,3 +25,15 @@ The analysis is broken down into four major points as below:
 4. The table contains the current title information for all of the employees determined to be eligible for the mentorship program. This will allow the company to figure out how to distribute their resources once the retirements happen.
 
 ## Summary
+
+One important aspect to consider in this analysis is how each department will be impacted in the company due to the heavy upcoming retirements. To study that we can look at how many roles will be left vacant per department. The following image has the information we need:
+
+![Retiring_departments](https://github.com/Zarif601/Pewlett-Hackard-Analysis/blob/main/Retiring_departments.png)
+
+As we can see from the image, development, production and sales departments would have a lot of roles that would have to be filled.
+
+Now that we know how many vacancies there will be per department, we can look at if there are enough retirement-ready employees who could take mentorship roles to prepare the employees who would participate in the mentorship program. A table detailing all the retirement-ready employees who could be eligible to take up mentorship roles are shown in the image below:
+
+![Retiring_mentors](https://github.com/Zarif601/Pewlett-Hackard-Analysis/blob/main/Retiring_mentors.png)
+
+Looking at this image, we can see that 'Managers,' 'Technique Leaders,' 'Senior Staffs,' and 'Senior Engineers' were thought to be people who could potentially the the role of a mentor. The image shows the distribution of these roles by department and can help the company identify if they beleive that enough mentor candidates are present amongst the retirement-ready employees.
